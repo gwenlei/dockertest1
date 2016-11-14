@@ -1,2 +1,2 @@
 FROM centos:centos6
-RUN yum install -y sshd
+RUN yum install -y sshd vim
